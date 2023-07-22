@@ -2,7 +2,8 @@
 
 The aim of this project was to design a remote controlled rover that can explore a lunar terrain and identify rocks based on the signals they emit. This involved splitting up the project into two parts: motion and sensing.
 
-<img width="400" alt="image" src="https://github.com/anish-narain/Moon-Rover/assets/69715492/b8ad9c22-d8c4-4c7e-8f93-808a69b3fd75">
+<img width="100" alt="image" src="https://github.com/anish-narain/Moon-Rover/assets/69715492/b8ad9c22-d8c4-4c7e-8f93-808a69b3fd75">
+
 
 For motion, the rover required motors to drive wheels that enabled forwards, backwards, left, and right movement. Furthermore, the rover’s movements were to be controlled over Wi-Fi. This required using a Wi-Fi module with a Metro M0 microcontroller Board and creating the interface to communicate with the board. The chosen user-interface was an Android application built on MIT App Inventor. The buttons on the app enabled the rover to move in the four directions mentioned above. It also included four additional “orbit” buttons, a scan button, and textboxes for the results of the scan.
 
